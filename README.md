@@ -104,7 +104,7 @@ Group Project - README Template
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/acacia1021/Wireframes-for-Group-Project-1Size/blob/master/IMG_1462.jpg" width=600>
 
 
 ## Schema 
