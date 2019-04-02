@@ -19,11 +19,11 @@ Group Project - README Template
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** Shopping
-- **Mobile:** 
-- **Story:** 
-- **Market:** 
-- **Habit:** 
-- **Scope:** 
+- **Mobile:** This app would be primarily developed for mobile but would perhaps be just as viable on a computer, such as tinder or other similar apps. Functionality wouldn’t be limited to mobile devices, however mobile version could potentially have more features.
+- **Story:** Keeps track of clothing we have liked and suggests further clothing we may like from other places.
+- **Market:** Anyone that is interested in clothing or sharing clothing favorites with their friends
+- **Habit:** This app could be used as often or unoften as the user wanted depending on how deep their social life is, and what exactly they’re looking for.
+- **Scope:** First we want to make it possible to view clothing on different store sites and be able to add them to our favorites list or preferences, and later be able to seach for items specifically depedning on these preferences.
 
 ## Product Spec
 
@@ -37,7 +37,6 @@ Group Project - README Template
 * User can update their profile page with age, height, weight, gender, etc.
 * Can browse clothing items from stores (just add links to stores for now)
 * User can create lists of clothing- shoes, shirts etc. or style- summer, spring, etc.
-* 
 
 
 **Optional Nice-to-have Stories**
@@ -64,7 +63,6 @@ Group Project - README Template
    * Photos of suggested clothing
    * List of stores you like that have recently added items
    * Clothing you have recently purchased
-   * 
 * Creation
     * User can post a new photo to their feed
     * User can share what they recently bought with others
@@ -76,7 +74,6 @@ Group Project - README Template
     * Users can view all of the clothes that they've liked.
     * Users can change height, age, etc.
     * Users can add a profile picture.
-    * 
 * Search
     * Users can search for other Users
     * Users can search for certain stores
