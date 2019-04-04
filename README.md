@@ -137,7 +137,7 @@ Profile Page	profileImage	Pointer to User/File	image of user
 - [Add list of network requests by screen ]
 
 - (READ/GET) username
-[ ] (READ/GET) password
+- (READ/GET) password
 [ ] (READ/GET) 
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
