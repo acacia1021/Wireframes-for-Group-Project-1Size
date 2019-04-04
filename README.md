@@ -109,9 +109,35 @@ Group Project - README Template
 
 ## Schema 
 [This section will be completed in Unit 9]
+
+
+
 ### Models
 [Add table of models]
+
+	Property	Model	Description
+Log in/Register Screen	loginTitle	String	Opening title welcoming user
+	userName	String	user ID for logging in
+	password	String	password for logging in
+	logInButton	String	button for logging in
+Home Screen/Search Page	searchBar	Relation to stores/images	Search button to look up stores
+	suggestion	String	"You may also like…" part of suggestion in feed
+	suggestionImage	File	Image shown in suggestion feed
+	youLiked	String	Tells user they liked clothing from certain stores
+Profile Page	profileImage	Pointer to User/File	image of user
+	name	String	Profile name
+	description	String	Description of user
+	location	String	location of the user
+	yourLikes	Pointer to likes/Relation to likes	shows list of your liked items
+	height	String	height of user
+	age	Number	age of user
+	friends	Pointer to users/Relation to users	List of friends
+
 ### Networking
 - [Add list of network requests by screen ]
+
+- (READ/GET) username
+[ ] (READ/GET) password
+[ ] (READ/GET) 
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
