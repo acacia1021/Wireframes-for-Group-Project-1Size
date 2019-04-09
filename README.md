@@ -136,6 +136,7 @@ Profile Page	profileImage	Pointer to User/File	image of user
 	friends	Pointer to users/Relation to users	List of friends
 
 ### Networking
+Can also be found here: https://github.com/acacia1021/Wireframes-for-Group-Project-1Size/blob/master/Outline%20Parse%20Network%20Requests%20File.docx
 - [Add list of network requests by screen ]
 
 - (READ/GET) username
