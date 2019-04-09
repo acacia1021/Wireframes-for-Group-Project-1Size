@@ -113,6 +113,8 @@ Group Project - README Template
 
 
 ### Models
+
+Can also be found here: https://github.com/acacia1021/Wireframes-for-Group-Project-1Size/blob/master/Data%20Models%20File%20-%20Sheet1.pdf
 [Add table of models]
 
 	Property	Model	Description
